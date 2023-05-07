@@ -10,9 +10,7 @@ A Flutter application that allows users to track COVID-19 statistics worldwide.
 
 ## Screenshots 📷
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+
 
 ## Getting Started 🛠️
 
@@ -26,4 +24,38 @@ These instructions will help you set up and run the project on your local machin
 ### Installation ⚙️
 
 1. Clone the repository:
-      
+
+            https://github.com/Ganeshshinde-2003/Covid-Tracker-Flutter-App.git
+
+
+2. Change to the project directory:
+
+            cd COVID-19-Tracker-App
+            
+
+3. Install dependencies:
+
+            flutter pub get
+            
+
+### Usage 🚀
+
+1. Start an Android emulator or connect a physical device.
+
+2. Run the application:
+
+            flutter run
+
+### Contributing 🤝
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+### License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Acknowledgments 💡
+
+- COVID-19 data provided by [disease.sh] (https://disease.sh/v3/covid-19/countries)
+- Pie Chart library used: [Pie Chart Library Name] (insert library link)
+
