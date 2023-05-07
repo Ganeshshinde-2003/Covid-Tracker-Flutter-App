@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE).
 ### Acknowledgments 💡
 
 - COVID-19 data provided by [disease.sh] (https://disease.sh/v3/covid-19/countries)
-- Pie Chart library used: [Pie Chart Library Name] (insert library link)
+- Pie Chart library used: pie_chart: ^5.1.0
 
