@@ -10,6 +10,9 @@ A Flutter application that allows users to track COVID-19 statistics worldwide.
 
 ## Screenshots 📷
 
+![Screenshot (5)](https://user-images.githubusercontent.com/115361691/236701031-60b55fba-e68a-4230-babd-c085eaa558e7.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/115361691/236701034-8b9a44ab-7875-42b8-8098-9379a7c139d9.png)
 
 
 ## Getting Started 🛠️
@@ -49,10 +52,6 @@ These instructions will help you set up and run the project on your local machin
 ### Contributing 🤝
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
-
-### License 📄
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgments 💡
 
